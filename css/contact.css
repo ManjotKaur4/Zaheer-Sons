@@ -1,0 +1,132 @@
+h2.wow.fadeInUp {
+    margin-bottom: 0.5rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 2rem;
+    color: #212529;
+}
+
+img {
+    width: 100% !important;
+}
+
+ul {
+    padding-left: 0 !important;
+}
+
+
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+section.map-add-section {
+    padding-bottom: initial;
+}
+
+section.map-add-section {
+    padding-top: 70px;
+}
+
+.contact-form .input-box input[type="submit"]:hover {
+    background: #FFF;
+    color: #00bcd4;
+}
+
+@media (max-width: 991px) {
+    section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .contact-info {
+        margin-bottom: 40px;
+        width: 100%;
+    }
+
+    .contact-form {
+        width: 100%;
+    }
+}
+
+.row {
+    display: flex;
+    flwx-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* .contact-info {
+    width: 50%;
+} */
+
+.contact-info-item {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.contact-info-icon {
+    height: 70px;
+    width: 70px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.contact-info-icon i {
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.contact-info-content {
+    margin-left: 20px;
+}
+
+.contact-info-content h4 {
+    color: #c6a16e;
+    font-size: 1.4em;
+    margin-bottom: 5px;
+}
+
+.contact-info-content p {
+    color: #FFF;
+    font-size: 1em;
+}
+
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+    height: 413px;
+}
+
+.contact-info-item {
+    display: flex;
+    margin-bottom: 30px;
+    align-items: baseline;
+}
+
+.contact-info-content p {
+    /* color: #FFF; */
+    font-size: 1em;
+    color: #9ea0a9;
+    /* margin-bottom: 32px; */
+}
+
+
+.row {
+    justify-content: center !important;
+    align-items: normal;
+}

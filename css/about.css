@@ -1,0 +1,41 @@
+img.w-100 {
+    height: auto;
+}
+
+.page-section {
+    padding: 0px !important;
+}
+
+p.text-secondary {
+    text-align: center;
+}
+
+.container.my-5 {
+    padding-top: 60px;
+    margin-top: 0% !important;
+    margin-bottom: 0% !important;
+}
+
+.col-md-6.p-4.p-sm-5 {
+    padding-top: 0px !important;
+}
+
+.offers-cap {
+    text-align: center;
+}
+
+img.w-100 {
+    height: auto;
+    padding-top: 100px;
+}
+
+video.about-inner-video {
+    width: 660px;
+    height: 390px;
+    margin-top: 21%;
+}
+
+img.w-100 {
+    height: 456px;
+    padding-top: 122px;
+}
